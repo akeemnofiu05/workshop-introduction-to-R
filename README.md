@@ -46,17 +46,18 @@ Participant that would attend this workshop do not need to have any previous kno
 
 ## Schedule
 
-### CPEB Club, University of Ibadan, 2023
+### CPEB Club, University of Ibadan, 2025
 
 by **Oluwafemi Oyedele**
+Reviewed by **Akeem O'Segun Nofiu**
 
 ------------------------------------------------------------------------
 
-:spiral_calendar: 19, 26, August and 2nd of September, 2023
+:spiral_calendar: 15th, 22nd, and 29th of November, 2025
 
 :alarm_clock: 10:00 AM - 3:00 PM
 
-:hotel: University of Ibadan
+:hotel: Dept. CPEB University of Ibadan
 
 :writing_hand: <https://bb1464.github.io/workshop-introduction-to-R/>
 
@@ -116,7 +117,7 @@ use_course("https://github.com/BB1464/workshop-introduction-to-R/archive/refs/he
 
 ## Presenter
 
-**Oluwafemi Oyedele** holds a master Degree in Agrometeorology from the University of Ibadan, Nigeria, and he is currently a research fellow at the International Institute of Tropical Agriculture and he is a data enthusiast.
+**Akeem O'Segun Nofiu** holds a Master Degree in Crop Physiology from the University of Ibadan, Nigeria, and he is currently a research fellow (PhD) at the International Institute of Tropical Agriculture and he is a data enthusiast.
 
 The slides can be found [**here**](https://bb1464.github.io/workshop-introduction-to-R/)
 
@@ -136,7 +137,7 @@ devtools::install_github("agstn/dataxray")
 
 <h1 align="center">
 
-CPEB Club, University of Ibadan, 2023!!!
+CPEB Club, University of Ibadan, 2025!!!
 
 </h1>
 

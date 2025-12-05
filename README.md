@@ -1,6 +1,6 @@
 # Training on Statistics and Data Analysis using R
 
-This repository contains the documentation, exercises and datasets of a three day workshop ['Training on Statistics and Data Analysis using R'](https://bb1464.github.io/workshop-introduction-to-R/) at CPEB Club, University of Ibadan, 2023
+This repository contains the documentation, exercises and datasets of a three day workshop ['Training on Statistics and Data Analysis using R'](https://bb1464.github.io/workshop-introduction-to-R/) at CPEB Club, University of Ibadan, December 2025
 
 ## Workshop description
 
@@ -53,7 +53,7 @@ Reviewed by **Akeem O'Segun Nofiu**
 
 ------------------------------------------------------------------------
 
-:spiral_calendar: 15th, 22nd, and 29th of November, 2025
+:spiral_calendar: 6th, 13nd, and 20th of December, 2025
 
 :alarm_clock: 10:00 AM - 3:00 PM
 
@@ -83,7 +83,7 @@ install.packages("devtools")
 
 library(usethis) # This line loads the usethis package into R memory
 
-use_course("https://github.com/BB1464/workshop-introduction-to-R/archive/refs/heads/master.zip") # this line will pull all the source code from my github repo into your system.
+use_course("https://github.com/akeemnofiu05/workshop-introduction-to-R/archive/refs/heads/master.zip") # this line will pull all the source code from my github repo into your system.
 
 
 # Day 1
